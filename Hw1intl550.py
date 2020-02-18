@@ -2,7 +2,7 @@
 """
 Created on Thu Feb 13 13:39:48 2020
 
-@author: user
+@author: Yasin Uslu 71028
 """
 import random 
 class Portfolio():                                                                  #Creates Portfolio Object 
@@ -141,6 +141,6 @@ print(portfolio1.Mfund)
 portfolio1.sellMutualFund("Winterfell",5)
 portfolio1.sellMutualFund("Wyk",3.1)
 portfolio1.sellMutualFund("Winterfell",5)
-#print(portfolio1.Mfund)
+print(portfolio1.Mfund)
 print(portfolio1.history)
-#print(portfolio2.history)
+print(portfolio2.history)
